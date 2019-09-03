@@ -1,6 +1,6 @@
-# Simple Web NodeJs Application with Docker
+# simpleweb
 
-Simple Web NodeJs Application with Docker
+Simple Web NodeJs Application. Example to demonstrate Docker concepts
 
 ## Requirements
 
@@ -19,23 +19,13 @@ This project uses a number of open source projects to work properly:
 
 * [Express] - Fast, unopinionated, minimalist web framework for Node.js
 
-Install the dependencies and start the server.
+## Setup & Run
 
-## Setup
-
-Install the dependencies.
+Run docker containers with docker commands.
 
 ```bash
 cd simpleweb
-npm install
-```
-
-### Run
-
-Run the following command to start the development server
-
-```bash
-npm start or node index.js
+docker build -t yourdockerid/simpleweb .
 ```
 
 ### Todos
