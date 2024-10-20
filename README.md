@@ -30,9 +30,9 @@ docker build -t yourdockerid/simpleweb .
 
 ### TODOs
 
-- [] Write tests
-- [] Add code comments
-- [] Add server validations
+- [ ] Write tests
+- [ ] Add code comments
+- [ ] Add server validations
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does 
 its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
