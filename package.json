@@ -9,6 +9,6 @@
   "author": "Reysmer Valle",
   "license": "MIT",
   "dependencies": {
-    "express": "^5.0.0"
+    "express": "^5.0.1"
   }
 }
